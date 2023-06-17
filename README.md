@@ -1,5 +1,5 @@
 # NotchApple
-Nothing - add-on add old craft enchanted golden Apple from old versions
+Notch Apple - add-on add old craft enchanted golden Apple from old versions
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
