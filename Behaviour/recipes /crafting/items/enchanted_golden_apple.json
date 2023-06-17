@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:enchanted_golden_apple"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "GGG",
+      "GAG",
+      "GGG"
+    ],
+    "key": {
+      "G": "minecraft:gold_block",
+      "A": "minecraft:apple"
+    },
+    "result": "minecraft:enchanted_golden_apple"
+  }
+}
